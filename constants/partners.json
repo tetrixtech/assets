@@ -13,9 +13,9 @@
   },
   {
     "name": "AltSwitch",
-    "icon_url": "Logos.AltSwitchIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/altswitch.png",
     "is_visible": true,
-    "website_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/altswitch.png"
+    "website_url": "https://altswitch.io/"
   },
   {
     "name": "San Lazarus Guild (SLG)",
