@@ -15,59 +15,59 @@
     "name": "AltSwitch",
     "icon_url": "Logos.AltSwitchIcon",
     "is_visible": true,
-    "website_url": "https://altswitch.io/"
+    "website_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/altswitch.png"
   },
   {
     "name": "San Lazarus Guild (SLG)",
-    "icon_url": "Logos.SLGIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/slg.png",
     "is_visible": true,
     "website_url": "https://www.facebook.com/SanLazarusGuildOfficial/?_rdr"
   },
   {
     "name": "AegisOne",
-    "icon_url": "Logos.AegisOneIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/aegisone.png",
     "is_visible": false,
     "website_url": "https://aegisonesecure.com/"
   },
   {
     "name": "AppScape",
-    "icon_url": "Logos.AppscapeIcon",
+    "icon_url": "",
     "is_visible": false,
     "website_url": "http://appscape.com/index.html"
   },
   {
     "name": "LapitJobs",
-    "icon_url": "LapitJobs",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/lapitjobs.png",
     "is_visible": false,
     "website_url": "https://lapitjobs.com/"
   },
   {
     "name": "Metavorz",
-    "icon_url": "Logos.MetavorzIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/metavorz.png",
     "is_visible": false,
     "website_url": ""
   },
   {
     "name": "SSID",
-    "icon_url": "Logos.SSIDIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/ssid.png",
     "is_visible": false,
     "website_url": "#"
   },
   {
     "name": "Stryke Solutions",
-    "icon_url": "Logos.StrykeIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/stryke.png",
     "is_visible": false,
     "website_url": "#"
   },
   {
     "name": "Tier One Entertainment",
-    "icon_url": "Logos.TierOneIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/tierone.png",
     "is_visible": false,
     "website_url": "https://tier.one"
   },
   {
     "name": "UltiCoin",
-    "icon_url": "Logos.UlticoinIcon",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/ulticoin.png",
     "is_visible": false,
     "website_url": "https://www.ulticoin.io/"
   }
