@@ -1,0 +1,10 @@
+{
+  "0x6bfeb80db28f5e9242894ecd829a272249f3b713": {
+    "id": "0x6bfeb80db28f5e9242894ecd829a272249f3b713",
+    "community_id": 56,
+    "symbol": "TET",
+    "isVisible": true,
+    "icon": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/tetrix.png",
+    "price": 0.085
+  }
+}
