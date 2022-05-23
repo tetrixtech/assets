@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Tetrix Network",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/tetrix.png",
+    "is_visible": true,
+    "website_url": "https://tetrix.xyz/"
+  },
+  {
+    "name": "8Chain",
+    "icon_url": "https://raw.githubusercontent.com/tetrixtech/assets/main/partners/50x50/8chain.png",
+    "is_visible": true,
+    "website_url": "https://www.8chain.io/"
+  },
+  {
+    "name": "AltSwitch",
+    "icon_url": "Logos.AltSwitchIcon",
+    "is_visible": true,
+    "website_url": "https://altswitch.io/"
+  },
+  {
+    "name": "San Lazarus Guild (SLG)",
+    "icon_url": "Logos.SLGIcon",
+    "is_visible": true,
+    "website_url": "https://www.facebook.com/SanLazarusGuildOfficial/?_rdr"
+  },
+  {
+    "name": "AegisOne",
+    "icon_url": "Logos.AegisOneIcon",
+    "is_visible": false,
+    "website_url": "https://aegisonesecure.com/"
+  },
+  {
+    "name": "AppScape",
+    "icon_url": "Logos.AppscapeIcon",
+    "is_visible": false,
+    "website_url": "http://appscape.com/index.html"
+  },
+  {
+    "name": "LapitJobs",
+    "icon_url": "LapitJobs",
+    "is_visible": false,
+    "website_url": "https://lapitjobs.com/"
+  },
+  {
+    "name": "Metavorz",
+    "icon_url": "Logos.MetavorzIcon",
+    "is_visible": false,
+    "website_url": ""
+  },
+  {
+    "name": "SSID",
+    "icon_url": "Logos.SSIDIcon",
+    "is_visible": false,
+    "website_url": "#"
+  },
+  {
+    "name": "Stryke Solutions",
+    "icon_url": "Logos.StrykeIcon",
+    "is_visible": false,
+    "website_url": "#"
+  },
+  {
+    "name": "Tier One Entertainment",
+    "icon_url": "Logos.TierOneIcon",
+    "is_visible": false,
+    "website_url": "https://tier.one"
+  },
+  {
+    "name": "UltiCoin",
+    "icon_url": "Logos.UlticoinIcon",
+    "is_visible": false,
+    "website_url": "https://www.ulticoin.io/"
+  }
+]
