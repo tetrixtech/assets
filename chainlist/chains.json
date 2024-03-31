@@ -233,6 +233,154 @@
         ]
     },
     {
+        "name": "Base",
+        "chain": "ETH",
+        "rpc": [
+            "https://mainnet.base.org/",
+            "https://developer-access-mainnet.base.org/",
+            "https://base.gateway.tenderly.co",
+            "wss://base.gateway.tenderly.co",
+            "https://base.publicnode.com",
+            "wss://base.publicnode.com"
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+            "name": "Ether",
+            "symbol": "ETH",
+            "decimals": 18
+        },
+        "infoURL": "https://base.org",
+        "shortName": "base",
+        "chainId": 8453,
+        "networkId": 8453,
+        "icon": "base",
+        "explorers": [
+            {
+                "name": "basescan",
+                "url": "https://basescan.org",
+                "standard": "none"
+            },
+            {
+                "name": "basescout",
+                "url": "https://base.blockscout.com",
+                "icon": "blockscout",
+                "standard": "EIP3091"
+            }
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Cronos",
+        "chain": "CRO",
+        "rpc": [
+            "https://evm.cronos.org",
+            "https://cronos-evm.publicnode.com",
+            "wss://cronos-evm.publicnode.com"
+        ],
+        "features": [
+            {
+                "name": "EIP1559"
+            }
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+            "name": "Cronos",
+            "symbol": "CRO",
+            "decimals": 18
+        },
+        "infoURL": "https://cronos.org/",
+        "shortName": "cro",
+        "chainId": 25,
+        "networkId": 25,
+        "explorers": [
+            {
+                "name": "Cronos Explorer",
+                "url": "https://cronoscan.com",
+                "standard": "none"
+            }
+        ]
+    },
+    {
+        "name": "Gnosis",
+        "chain": "GNO",
+        "icon": "gnosis",
+        "rpc": [
+            "https://rpc.gnosischain.com",
+            "https://rpc.gnosis.gateway.fm",
+            "https://rpc.ankr.com/gnosis",
+            "https://gnosischain-rpc.gateway.pokt.network",
+            "https://gnosis-mainnet.public.blastapi.io",
+            "https://gnosis.api.onfinality.io/public",
+            "https://gnosis.blockpi.network/v1/rpc/public",
+            "https://web3endpoints.com/gnosischain-mainnet",
+            "https://gnosis.oat.farm",
+            "wss://rpc.gnosischain.com/wss",
+            "https://gnosis.publicnode.com",
+            "wss://gnosis.publicnode.com"
+        ],
+        "faucets": [
+            "https://gnosisfaucet.com",
+            "https://stakely.io/faucet/gnosis-chain-xdai",
+            "https://faucet.prussia.dev/xdai"
+        ],
+        "nativeCurrency": {
+            "name": "xDAI",
+            "symbol": "XDAI",
+            "decimals": 18
+        },
+        "infoURL": "https://docs.gnosischain.com",
+        "shortName": "gno",
+        "chainId": 100,
+        "networkId": 100,
+        "slip44": 700,
+        "explorers": [
+            {
+                "name": "gnosisscan",
+                "url": "https://gnosisscan.io",
+                "standard": "EIP3091"
+            },
+            {
+                "name": "blockscout",
+                "url": "https://gnosis.blockscout.com",
+                "icon": "blockscout",
+                "standard": "EIP3091"
+            }
+        ]
+    },
+    {
+        "name": "Kava",
+        "chain": "KAVA",
+        "rpc": [
+            "https://evm.kava.io",
+            "https://evm2.kava.io",
+            "https://kava-rpc.gateway.pokt.network",
+            "https://kava-evm.rpc.thirdweb.com",
+            "wss://wevm.kava.io",
+            "wss://wevm2.kava.io",
+            "https://kava-evm.publicnode.com",
+            "wss://kava-evm.publicnode.com"
+        ],
+        "faucets": [],
+        "nativeCurrency": {
+            "name": "Kava",
+            "symbol": "KAVA",
+            "decimals": 18
+        },
+        "infoURL": "https://www.kava.io",
+        "shortName": "kava",
+        "chainId": 2222,
+        "networkId": 2222,
+        "icon": "kava",
+        "explorers": [
+            {
+                "name": "Kava EVM Explorer",
+                "url": "https://kavascan.com",
+                "standard": "EIP3091",
+                "icon": "kava"
+            }
+        ]
+    },
+    {
         "name": "Expanse Network",
         "chain": "EXP",
         "rpc": [
@@ -752,37 +900,6 @@
         "networkId": 0,
         "redFlags": [
             "reusedChainId"
-        ]
-    },
-    {
-        "name": "Cronos Mainnet",
-        "chain": "CRO",
-        "rpc": [
-            "https://evm.cronos.org",
-            "https://cronos-evm.publicnode.com",
-            "wss://cronos-evm.publicnode.com"
-        ],
-        "features": [
-            {
-                "name": "EIP1559"
-            }
-        ],
-        "faucets": [],
-        "nativeCurrency": {
-            "name": "Cronos",
-            "symbol": "CRO",
-            "decimals": 18
-        },
-        "infoURL": "https://cronos.org/",
-        "shortName": "cro",
-        "chainId": 25,
-        "networkId": 25,
-        "explorers": [
-            {
-                "name": "Cronos Explorer",
-                "url": "https://cronoscan.com",
-                "standard": "none"
-            }
         ]
     },
     {
@@ -2683,53 +2800,6 @@
             {
                 "name": "blockscout",
                 "url": "https://blockscout.com/poa/core",
-                "icon": "blockscout",
-                "standard": "EIP3091"
-            }
-        ]
-    },
-    {
-        "name": "Gnosis",
-        "chain": "GNO",
-        "icon": "gnosis",
-        "rpc": [
-            "https://rpc.gnosischain.com",
-            "https://rpc.gnosis.gateway.fm",
-            "https://rpc.ankr.com/gnosis",
-            "https://gnosischain-rpc.gateway.pokt.network",
-            "https://gnosis-mainnet.public.blastapi.io",
-            "https://gnosis.api.onfinality.io/public",
-            "https://gnosis.blockpi.network/v1/rpc/public",
-            "https://web3endpoints.com/gnosischain-mainnet",
-            "https://gnosis.oat.farm",
-            "wss://rpc.gnosischain.com/wss",
-            "https://gnosis.publicnode.com",
-            "wss://gnosis.publicnode.com"
-        ],
-        "faucets": [
-            "https://gnosisfaucet.com",
-            "https://stakely.io/faucet/gnosis-chain-xdai",
-            "https://faucet.prussia.dev/xdai"
-        ],
-        "nativeCurrency": {
-            "name": "xDAI",
-            "symbol": "XDAI",
-            "decimals": 18
-        },
-        "infoURL": "https://docs.gnosischain.com",
-        "shortName": "gno",
-        "chainId": 100,
-        "networkId": 100,
-        "slip44": 700,
-        "explorers": [
-            {
-                "name": "gnosisscan",
-                "url": "https://gnosisscan.io",
-                "standard": "EIP3091"
-            },
-            {
-                "name": "blockscout",
-                "url": "https://gnosis.blockscout.com",
                 "icon": "blockscout",
                 "standard": "EIP3091"
             }
@@ -12721,39 +12791,6 @@
         ]
     },
     {
-        "name": "Kava",
-        "chain": "KAVA",
-        "rpc": [
-            "https://evm.kava.io",
-            "https://evm2.kava.io",
-            "https://kava-rpc.gateway.pokt.network",
-            "https://kava-evm.rpc.thirdweb.com",
-            "wss://wevm.kava.io",
-            "wss://wevm2.kava.io",
-            "https://kava-evm.publicnode.com",
-            "wss://kava-evm.publicnode.com"
-        ],
-        "faucets": [],
-        "nativeCurrency": {
-            "name": "Kava",
-            "symbol": "KAVA",
-            "decimals": 18
-        },
-        "infoURL": "https://www.kava.io",
-        "shortName": "kava",
-        "chainId": 2222,
-        "networkId": 2222,
-        "icon": "kava",
-        "explorers": [
-            {
-                "name": "Kava EVM Explorer",
-                "url": "https://kavascan.com",
-                "standard": "EIP3091",
-                "icon": "kava"
-            }
-        ]
-    },
-    {
         "name": "VChain Mainnet",
         "chain": "VChain",
         "rpc": [
@@ -17101,43 +17138,6 @@
         "networkId": 8387,
         "icon": "dracones",
         "explorers": []
-    },
-    {
-        "name": "Base",
-        "chain": "ETH",
-        "rpc": [
-            "https://mainnet.base.org/",
-            "https://developer-access-mainnet.base.org/",
-            "https://base.gateway.tenderly.co",
-            "wss://base.gateway.tenderly.co",
-            "https://base.publicnode.com",
-            "wss://base.publicnode.com"
-        ],
-        "faucets": [],
-        "nativeCurrency": {
-            "name": "Ether",
-            "symbol": "ETH",
-            "decimals": 18
-        },
-        "infoURL": "https://base.org",
-        "shortName": "base",
-        "chainId": 8453,
-        "networkId": 8453,
-        "icon": "base",
-        "explorers": [
-            {
-                "name": "basescan",
-                "url": "https://basescan.org",
-                "standard": "none"
-            },
-            {
-                "name": "basescout",
-                "url": "https://base.blockscout.com",
-                "icon": "blockscout",
-                "standard": "EIP3091"
-            }
-        ],
-        "status": "active"
     },
     {
         "name": "Toki Network",
