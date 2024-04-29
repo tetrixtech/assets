@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "Ad 1",
+        "image": "images/ad_1.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 2,
+        "title": "Ad 2",
+        "image": "images/ad_2.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 3,
+        "title": "Ad 3",
+        "image": "images/ad_3.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 4,
+        "title": "Ad 4",
+        "image": "images/ad_4.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 5,
+        "title": "Ad 5",
+        "image": "images/ad_5.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 7,
+        "title": "Res 1",
+        "image": "images/res_1.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 8,
+        "title": "Res 2",
+        "image": "images/res_2.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 9,
+        "title": "Res 3",
+        "image": "images/res_3.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 10,
+        "title": "Res 4",
+        "image": "images/res_4.png",
+        "url": "https://www.google.com"
+    },
+    {
+        "id": 11,
+        "title": "Res 5",
+        "image": "images/res_5.png",
+        "url": "https://www.google.com"
+    }
+]
