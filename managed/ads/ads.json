@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "title": "Ad 1",
+        "title": "Pitaka",
         "image": "images/ad_1.png",
-        "url": "https://www.google.com"
+        "url": "https://pitaka.io"
     },
     {
         "id": 2,
-        "title": "Ad 2",
+        "title": "Tetrix Link",
         "image": "images/ad_2.png",
-        "url": "https://www.google.com"
+        "url": "https://link.tetrix.xyz"
     },
     {
         "id": 3,
@@ -31,15 +31,15 @@
     },
     {
         "id": 7,
-        "title": "Res 1",
+        "title": "Cash-In",
         "image": "images/res_1.png",
-        "url": "https://www.google.com"
+        "url": "https://www.support.pitaka.io/docs/cash-in"
     },
     {
         "id": 8,
-        "title": "Res 2",
+        "title": "Cash-Out",
         "image": "images/res_2.png",
-        "url": "https://www.google.com"
+        "url": "https://www.support.pitaka.io/docs/cash-out"
     },
     {
         "id": 9,
