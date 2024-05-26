@@ -13,21 +13,21 @@
     },
     {
         "id": 3,
-        "title": "Ad 3",
+        "title": "Crypto Payments",
         "image": "images/ad_3.png",
-        "url": "https://www.google.com"
+        "url": "https://www.support.pitaka.io/docs/crypto-payments"
     },
     {
         "id": 4,
-        "title": "Ad 4",
+        "title": "Enjoy",
         "image": "images/ad_4.png",
-        "url": "https://www.google.com"
+        "url": ""
     },
     {
         "id": 5,
-        "title": "Ad 5",
+        "title": "Security",
         "image": "images/ad_5.png",
-        "url": "https://www.google.com"
+        "url": "https://www.pitaka.io"
     },
     {
         "id": 7,
@@ -43,20 +43,20 @@
     },
     {
         "id": 9,
-        "title": "Res 3",
+        "title": "Express Send",
         "image": "images/res_3.png",
-        "url": "https://www.google.com"
+        "url": "https://www.support.pitaka.io/docs/express-send"
     },
     {
         "id": 10,
-        "title": "Res 4",
+        "title": "Generating QR",
         "image": "images/res_4.png",
-        "url": "https://www.google.com"
+        "url": "https://www.support.pitaka.io/docs/generating-qr-code"
     },
     {
         "id": 11,
-        "title": "Res 5",
+        "title": "Bills Payment",
         "image": "images/res_5.png",
-        "url": "https://www.google.com"
+        "url": "https://www.support.pitaka.io/docs/bills-payment"
     }
 ]
