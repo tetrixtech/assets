@@ -2,13 +2,13 @@
     {
         "id": 1,
         "title": "Rewards",
-        "image": "images/ad_1.png",
-        "url": ""
+        "image": "images/dtaka_ad_1.png",
+        "url": "https://dtaka.ph"
     },
     {
-        "id": 1,
+        "id": 2,
         "title": "Rewards",
-        "image": "images/res_1.png",
-        "url": ""
+        "image": "images/dtaka_res_1.png",
+        "url": "https://dtaka.ph"
     }
 ]
