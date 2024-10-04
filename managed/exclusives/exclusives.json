@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Pitaka Survey",
+        "image": "images/ex_1.png",
+        "url": "https://docs.pitaka.io",
+        "bannerTitle": "Help us improve Pitaka",
+        "bannerSubtitle": "Take a quick survey and let us serve you better."
+    },
+    {
+        "id": 2,
+        "title": "Prevention",
+        "image": "images/ex_2.png",
+        "url": "https://pitaka.io",
+        "bannerTitle": "Protect Your Wallet Today",
+        "bannerSubtitle": "Stay vigilant! Here are tips to protect yourself."
+    },
+    {
+        "id": 3,
+        "title": "Survey",
+        "image": "images/ex_3.png",
+        "url": "https://docs.pitaka.io",
+        "bannerTitle": "Invite Friends, Earn Rewards!",
+        "bannerSubtitle": "Invite friends, share Pitaka, and earn exclusive rewards together!"
+    }
+]
