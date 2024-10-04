@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Pitaka",
+        "image": "images/ex_1.png",
+        "url": "https://pitaka.io"
+    },
+    {
+        "id": 2,
+        "title": "Tetrix Link",
+        "image": "images/ex_2.png",
+        "url": "https://link.tetrix.xyz"
+    },
+    {
+        "id": 3,
+        "title": "Crypto Payments",
+        "image": "images/ex_3.png",
+        "url": "https://docs.pitaka.io/docs/crypto-payments"
+    },
+    {
+        "id": 4,
+        "title": "Enjoy",
+        "image": "images/ex_4.png",
+        "url": ""
+    }
+]
