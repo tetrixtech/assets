@@ -3,24 +3,48 @@
         "id": 1,
         "title": "Pitaka Survey",
         "image": "images/learn_1.png",
-        "url": "https://docs.pitaka.io",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdTpeoK4Ah7LC2WRRR9FJYE7H0a3-QQoZCimvbd4d2lpugVuw/viewform",
         "bannerTitle": "Help us improve Pitaka",
         "bannerSubtitle": "Take a quick survey and let us serve you better."
     },
     {
         "id": 2,
-        "title": "Prevention",
+        "title": "Send Money",
         "image": "images/learn_2.png",
-        "url": "https://pitaka.io",
-        "bannerTitle": "Protect Your Wallet Today",
-        "bannerSubtitle": "Stay vigilant! Here are tips to protect yourself."
+        "url": "https://medium.com/@pitaka_app/how-to-use-pitakas-express-send-feature-a-step-by-step-guide-e1ddb99f4a06",
+        "bannerTitle": "Send Money Fast",
+        "bannerSubtitle": "See how to quickly send money with Pitaka's Express Send feature."
     },
     {
         "id": 3,
-        "title": "Survey",
+        "title": "Cash In",
         "image": "images/learn_3.png",
+        "url": "#",
+        "bannerTitle": "Add Funds Easily",
+        "bannerSubtitle": "Learn the easiest ways to cash in and top up your Pitaka."
+    },
+    {
+        "id": 4,
+        "title": "Cash Out",
+        "image": "images/learn_4.png",
+        "url": "#",
+        "bannerTitle": "Cash Out in seconds",
+        "bannerSubtitle": "Find out how to transfer your funds to your bank or preferred outlet."
+    },
+    {
+        "id": 5,
+        "title": "Generate QR",
+        "image": "images/learn_6.png",
+        "url": "#",
+        "bannerTitle": "Create your QR Code",
+        "bannerSubtitle": "Learn how to generate your personal QR code for hassle-free payments."
+    },
+    {
+        "id": 6,
+        "title": "Bills Payment",
+        "image": "images/learn_5.png",
         "url": "https://docs.pitaka.io",
-        "bannerTitle": "Invite Friends, Earn Rewards!",
-        "bannerSubtitle": "Invite friends, share Pitaka, and earn exclusive rewards together!"
+        "bannerTitle": "Pay Bills with Ease",
+        "bannerSubtitle": "Discover how to settle your bills quickly and securely using Pitaka."
     }
 ]

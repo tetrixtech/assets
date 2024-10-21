@@ -28,35 +28,5 @@
         "title": "Security",
         "image": "images/ad_5.png",
         "url": "https://www.pitaka.io"
-    },
-    {
-        "id": 7,
-        "title": "Cash-In",
-        "image": "images/res_1.png",
-        "url": "https://www.support.pitaka.io/docs/cash-in"
-    },
-    {
-        "id": 8,
-        "title": "Cash-Out",
-        "image": "images/res_2.png",
-        "url": "https://www.support.pitaka.io/docs/cash-out"
-    },
-    {
-        "id": 9,
-        "title": "Express Send",
-        "image": "images/res_3.png",
-        "url": "https://www.support.pitaka.io/docs/express-send"
-    },
-    {
-        "id": 10,
-        "title": "Generating QR",
-        "image": "images/res_4.png",
-        "url": "https://www.support.pitaka.io/docs/generating-qr-code"
-    },
-    {
-        "id": 11,
-        "title": "Bills Payment",
-        "image": "images/res_5.png",
-        "url": "https://www.support.pitaka.io/docs/bills-payment"
     }
 ]
