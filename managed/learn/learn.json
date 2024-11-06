@@ -19,7 +19,7 @@
         "id": 3,
         "title": "Cash In",
         "image": "images/learn_3.png",
-        "url": "#",
+        "url": "https://medium.com/@pitaka_app/how-to-cash-in-using-pitaka-a-step-by-step-guide-a85ca8222136",
         "bannerTitle": "Add Funds Easily",
         "bannerSubtitle": "Learn the easiest ways to cash in and top up your Pitaka."
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "title": "Cash Out",
         "image": "images/learn_4.png",
-        "url": "#",
+        "url": "https://medium.com/@pitaka_app/how-to-cash-out-with-pitaka-a-step-by-step-guide-for-a-seamless-transaction-4b91dc878554",
         "bannerTitle": "Cash Out in seconds",
         "bannerSubtitle": "Find out how to transfer your funds to your bank or preferred outlet."
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Generate QR",
         "image": "images/learn_6.png",
-        "url": "#",
+        "url": "https://medium.com/@pitaka_app/effortlessly-generate-qr-codes-in-pitaka-your-complete-guide-642b6e8bd67f",
         "bannerTitle": "Create your QR Code",
         "bannerSubtitle": "Learn how to generate your personal QR code for hassle-free payments."
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "title": "Bills Payment",
         "image": "images/learn_5.png",
-        "url": "https://docs.pitaka.io",
+        "url": "https://medium.com/@pitaka_app/how-to-easily-pay-bills-in-just-a-few-taps-with-pitaka-bb616efc0bb4",
         "bannerTitle": "Pay Bills with Ease",
         "bannerSubtitle": "Discover how to settle your bills quickly and securely using Pitaka."
     }
