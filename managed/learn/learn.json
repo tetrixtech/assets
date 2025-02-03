@@ -34,7 +34,7 @@
     {
         "id": 5,
         "title": "Generate QR",
-        "image": "images/learn_6.png",
+        "image": "images/learn_5.png",
         "url": "https://medium.com/@pitaka_app/effortlessly-generate-qr-codes-in-pitaka-your-complete-guide-642b6e8bd67f",
         "bannerTitle": "Create your QR Code",
         "bannerSubtitle": "Learn how to generate your personal QR code for hassle-free payments."
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "title": "Bills Payment",
-        "image": "images/learn_5.png",
+        "image": "images/learn_6.png",
         "url": "https://medium.com/@pitaka_app/how-to-easily-pay-bills-in-just-a-few-taps-with-pitaka-bb616efc0bb4",
         "bannerTitle": "Pay Bills with Ease",
         "bannerSubtitle": "Discover how to settle your bills quickly and securely using Pitaka."
